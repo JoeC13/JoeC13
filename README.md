@@ -20,7 +20,7 @@ Excited to protect digital assets the way I once protected communities. Let's co
 ## Skills
 | Skill                                                | Associated Project                 |
 |------------------------------------------------------|------------------------------------|
-|SIEM Alert Investigation - Malicious Attachment Detected| <a href="htttps://apple.com">SIEM Lab< /a>
+|SIEM Alert Investigation - Malicious Attachment Detected| <a href="https://apple.com">SIEM Lab</a>|
 
 
 - 🔭 Currently exploring: SOC Analyst roles
