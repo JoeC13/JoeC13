@@ -21,7 +21,7 @@ Excited to protect digital assets the way I once protected communities. Let's co
 
 - 🔭 Currently exploring: SOC Analyst roles
 - 🌱 Learning: Splunk, Python for secuirty scripting
-- 📫 Reach me: <a href="https://www.linkedin.com/in/joseph-cortez-039833251/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25" height="25" /></a> or by <a href="mailto:jcortez1322@gmail.com">EMAIL</a>
+- 📫 Reach me: <a href="https://www.linkedin.com/in/joseph-cortez-039833251/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="25" height="25" /></a> or by email: JCORTEZ1322@GMAIL.COM
 
 Thanks for stopping by!
 <!--
