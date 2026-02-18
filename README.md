@@ -15,9 +15,13 @@ Excited to protect digital assets the way I once protected communities. Let's co
 
 **Certifications**
 
-<img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/Network+-CompTIA%20Network+-brightgreen?logo=compTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/A+-CompTIA%20A+-orange?logo=compTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/Security+-CompTIA%20Security+-red?logo=compTIA&logoColor=white" /> <img src="https://img.shields.io/badge/Network+-CompTIA%20Network+-brightgreen?logo=compTIA&logoColor=white" /> <img src="https://img.shields.io/badge/A+-CompTIA%20A+-orange?logo=compTIA&logoColor=white" />
+
+## Skills
+| Skill                                                | Associated Project                 |
+|------------------------------------------------------|------------------------------------|
+|SIEM Alert Investigation - Malicious Attachment Detected| <a href="htttps://apple.com">SIEM Lab< /a>
+
 
 - 🔭 Currently exploring: SOC Analyst roles
 - 🌱 Learning: Splunk, Python for secuirty scripting
