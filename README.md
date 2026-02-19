@@ -20,7 +20,7 @@ Excited to protect digital assets the way I once protected communities. Let's co
 ## Skills
 | Skill                                                | Associated Project                 |
 |------------------------------------------------------|------------------------------------|
-|SIEM Alert Investigation - Malicious Attachment Detected| <a href="https://github.com/JoeC13/SIEM-Lab">SIEM Lab</a>|
+|SIEM Alert Investigation - Phishing Mail Detected - Internal to Internal| <a href="https://github.com/JoeC13/SIEM-Lab">SIEM Lab</a>|
 
 
 - 🔭 Currently exploring: SOC Analyst roles
